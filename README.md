@@ -26,7 +26,7 @@
 
 5.  ## What are attributes in HTML?
 
-    Attributes are special words that provide additional information about HTML elements. Each attribute is used for different tasks. For example id, class are the attributes which we can use for specify the elements, so that we can use them in JS, CSS to manuplate a specific element.
+    Attributes are special words that provide additional information about HTML elements. Each attribute is used for different tasks. For example id, class are the attributes which we can use for specify the elements, so that we can use them in JS, CSS to manipulate a specific element.
     
     ***
 
